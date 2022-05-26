@@ -36,20 +36,6 @@ The hope of this class is to expose you to different ways of programming and how
 Why not slides? Simply put, slides are a polished product that are not interactive and often do not show the thought proces and trial/error that goes into coming up with a piece of code that works. Jupyter + TypeScript enables you to explore concepts with actual code that you can modify.
 
 
-## Contents
-
-1. Language primitives (i.e., building blocks of languages): lecture 02 - lecture 10.
-2. Language paradigms (i.e., combinations of language primitives): lecture 11 - lecture 17.
-3. Building a language (i.e., designing your own language): lecture 18 - lecture 21.
-
-
-### Special Lectures
-
-1. Lecture 13 explores [Sql](https://www.w3schools.com/sql/)
-2. Lecture 15 explores [Go](https://go.dev/)
-3. Lecture 17 explores [Haskell](https://www.haskell.org/)
-
-
 ## Requirements
 
 1. [Jupyter Notebook](https://jupyter.org/)
