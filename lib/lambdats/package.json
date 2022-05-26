@@ -1,0 +1,15 @@
+{
+  "name": "lambdats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "Lawrence Kesteloot <lk@teamten.com> (https://www.teamten.com/lawrence/)",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
